@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<RunSettings>
+	<TestRunParameters>	
+		<Parameter name="Headless" value="true" />
+		<Parameter name="NeedMaximizeWindow" value="false" />
+		<!--Timeouts in seconds-->
+		<Parameter name="PageLoadTimeout" value="60" />
+		<Parameter name="DefaulCommandTimeout" value="60" />
+		<Parameter name="ImplicitWaitTimeout" value="30" />
+	</TestRunParameters>
+</RunSettings>
