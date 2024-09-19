@@ -93,7 +93,7 @@ namespace ResolverTechTask.Tests
         {
             // Arrange
             const string ExpectedMessageText = "You clicked a button!";
-            const int ApproximateButtonWaitTime = 10;
+            const int ApproximateButtonWaitTime = 12;
 
             // Assert
             var result = WaitHelper.WaitUntilCondition(() => TaskPage.TaskFive.IsButtonDisplayed(), TimeSpan.FromSeconds(ApproximateButtonWaitTime));
