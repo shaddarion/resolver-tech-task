@@ -1,0 +1,7 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Thu Sep 19 20:43:07 GMT 2024","Thu Sep 19 20:43:08 GMT 2024","1163","","UI Tests","","ResolverTechTaskTests","Test3","Test3",""
+"passed","Thu Sep 19 20:43:09 GMT 2024","Thu Sep 19 20:43:15 GMT 2024","6185","","UI Tests","","ResolverTechTaskTests","Test5","Test5",""
+"passed","Thu Sep 19 20:43:10 GMT 2024","Thu Sep 19 20:43:11 GMT 2024","1192","","UI Tests","","ResolverTechTaskTests","Test6","Test6",""
+"passed","Thu Sep 19 20:43:04 GMT 2024","Thu Sep 19 20:43:06 GMT 2024","2097","","UI Tests","","ResolverTechTaskTests","Test1","Test1",""
+"passed","Thu Sep 19 20:43:04 GMT 2024","Thu Sep 19 20:43:06 GMT 2024","1847","","UI Tests","","ResolverTechTaskTests","Test2","Test2",""
+"passed","Thu Sep 19 20:43:07 GMT 2024","Thu Sep 19 20:43:08 GMT 2024","919","","UI Tests","","ResolverTechTaskTests","Test4","Test4",""
