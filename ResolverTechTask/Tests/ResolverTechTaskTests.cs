@@ -1,3 +1,5 @@
+using Allure.NUnit.Attributes;
+using Allure.NUnit;
 using ApplicationData.Pages;
 using AutomationFramework.Helpers;
 using FluentAssertions;
@@ -5,6 +7,8 @@ using FluentAssertions.Execution;
 
 namespace ResolverTechTask.Tests
 {
+    [AllureNUnit]
+    [AllureSuite("UI Tests")]
     public class ResolverTechTaskTests : BaseTest
     {
         private TaskPage TaskPage => Pages.TaskPage.Value;
